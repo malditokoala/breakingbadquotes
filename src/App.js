@@ -30,7 +30,7 @@ const Boton = styled.button`
 `;
 function App() {
   // State de frases
-  const [frase, guardarFrase] = useState({});
+  const [fras; guardarFrase] = useState({});
 
   // Cargar una frase
   useEffect(() => {
